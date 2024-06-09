@@ -4,12 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
-    "dev": "nodemon server.js",
-    "build": "npm i",
+
     "test": "echo \"Error: no test specified\" && exit 1",
+
+    "dev": "nodemon server.js",
+    "build": "npm i"
+    
     
 
   },
