@@ -4,14 +4,14 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
+
+  
+
     "dev": "nodemon server.js",
     "build": "npm i",
     "test": "echo \"Error: no test specified\" && exit 1",
     
->>>>>>> 1dc0c9194bd2f42bb3107e2dbd91d33d907a4779
+
   },
   "author": "",
   "license": "ISC",
