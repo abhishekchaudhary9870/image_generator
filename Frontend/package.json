@@ -2,7 +2,7 @@
   "name": "imagegenerator",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.html",
   "type": "module",
   "scripts": {
     "build": "parcel build index.html",
